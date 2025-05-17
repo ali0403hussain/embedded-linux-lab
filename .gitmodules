@@ -1,0 +1,6 @@
+[submodule "dev/third-party/yocto"]
+	path = dev/third-party/yocto
+	url = https://git.yoctoproject.org/poky
+[submodule "dev/third-party/buildroot"]
+	path = dev/third-party/buildroot
+	url = https://github.com/buildroot/buildroot.git
